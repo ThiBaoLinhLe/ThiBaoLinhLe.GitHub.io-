@@ -1,9 +1,27 @@
-title: Zeina Roz # your name (or website title) here
+title: Linh Le # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  I want some pizza  <br><br>
-  <a href="https://www.linkedin.com/in/averyjsmith/">View My LinkedIn Profile</a> 
+  Hi, I’m Linh! 
+
+💡Think of me as a mix between a data detective, math-minded problem solver, insight translator, and lifelong learner. Currently seeking roles as a Data Analyst or Data Scientist.
+
+⚒️ Key Skills & Focus Areas:
+- Data Analysis & Exploration – Statistical analysis, data cleaning, and identifying actionable insights with Excel and R.
+- SQL & Relational Databases – Writing complex queries, joins, aggregations, and subqueries.
+- Python for Data – Libraries like pandas, numpy, matplotlib, seaborn for EDA and reporting.
+- Data Visualization – Building interactive dashboards with Tableau and Power BI.
+
+👩‍🏫 From Teaching to Data - What I bring:
+- A background in education means I’m naturally skilled at explaining complex ideas.
+- I’m detail-oriented, organized, and always thinking about the end user’s experience.
+- Collaboration comes naturally - I thrive when working across teams to solve problems.
+
+🧁When I’m not playing with data, you’ll probably find me in the kitchen testing out a new baking recipe. I love making things that are structured, beautiful, and satisfying.
+
+✅ Let’s connect and chat about all things data, strategy, or even that that irresistible baking recipe you just perfected. Feel free to contact or refer me to any Data Analyst or Data Scientist roles.
+
+My contact information is baolinh2511@gmail.com.  <br><br>
+  <a href="https://www.linkedin.com/in/thibaolinhle/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
